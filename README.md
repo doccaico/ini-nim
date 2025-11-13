@@ -1,8 +1,15 @@
 # ininim
 Yet another .ini parser. ([Original](https://xmonader.github.io/nimdays/day05_iniparser.html))
 
+## Nimble
+```
+requires "https://github.com/doccaico/ininim#main"
+```
+
 ## How to use
 ```nim
+import ininim
+
 let sample = """
 
 [general]
