@@ -3,7 +3,7 @@ Yet another .ini parser. ([Original](https://xmonader.github.io/nimdays/day05_in
 
 ## Nimble
 ```
-requires "https://github.com/doccaico/ininim#main"
+nimble add https://github.com/doccaico/ininim
 ```
 
 ## How to use
